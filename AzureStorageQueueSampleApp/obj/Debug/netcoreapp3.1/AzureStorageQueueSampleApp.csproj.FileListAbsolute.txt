@@ -1,0 +1,15 @@
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.deps.json
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.runtimeconfig.json
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.runtimeconfig.dev.json
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.dll
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.pdb
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.csprojAssemblyReference.cache
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.AssemblyInfoInputs.cache
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.AssemblyInfo.cs
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.csproj.CoreCompileInputs.cache
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.csproj.CopyComplete
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.dll
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.pdb
+/Users/abhinavcreed/Projects/azure-dev-projects/AzureStorageQueueSampleApp/obj/Debug/netcoreapp3.1/AzureStorageQueueSampleApp.genruntimeconfig.cache
