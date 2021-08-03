@@ -134,9 +134,7 @@ az webapp deployment source config-zip \
 --resource-group learn-63507221-f793-443e-9ade-b6c86f129700
 ```
 
-To see the running app, in a browser, open `https://<your-unique-app-name>.azurewebsites.net`. It should look like the following image.
-
-![https://docs.microsoft.com/en-gb/learn/modules/store-app-data-with-azure-blob-storage/media/7-fileuploader-empty.png](https://docs.microsoft.com/en-gb/learn/modules/store-app-data-with-azure-blob-storage/media/7-fileuploader-empty.png)
+To see the running app, in a browser, open `https://<your-unique-app-name>.azurewebsites.net`.
 
 Try uploading and downloading some files to test the app. After you've uploaded a few files, to see the blobs that have been uploaded to the container, run the following code in the shell.
 
